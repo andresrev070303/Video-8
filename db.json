@@ -1,0 +1,88 @@
+{
+  "vendedor": [
+    {
+      "id": "631a",
+      "name": "Andres",
+      "email": "andres@ejemplo.com",
+      "password": "123"
+    },
+    {
+      "id": "a268",
+      "name": "peter",
+      "password": "123",
+      "email": "peter@test.com"
+    },
+    {
+      "id": "ec41",
+      "name": "peter",
+      "password": "123",
+      "email": "peter@test.com"
+    },
+    {
+      "id": "e18f",
+      "name": "peter",
+      "password": "123",
+      "email": "peter@test.com"
+    },
+    {
+      "id": "5971",
+      "name": "sadasd",
+      "password": "qweqwe",
+      "email": "sfdads"
+    },
+    {
+      "id": "fa84",
+      "name": "sadasd",
+      "password": "qweqwe",
+      "email": "sfdads"
+    },
+    {
+      "id": "cbe4",
+      "name": "jkjkl",
+      "password": "ghjgjh",
+      "email": "hjkhj"
+    },
+    {
+      "id": "2d2b",
+      "name": "jkjkl",
+      "password": "ghjgjh",
+      "email": "hjkhj"
+    },
+    {
+      "id": "20d4",
+      "name": "jkjkl",
+      "password": "ghjgjh",
+      "email": "hjkhj"
+    },
+    {
+      "id": "613c",
+      "name": "jkjkl",
+      "password": "ghjgjh",
+      "email": "hjkhj"
+    },
+    {
+      "id": "c5b3",
+      "name": "dfsads",
+      "password": "efdsef1",
+      "email": "fdgfdgf"
+    },
+    {
+      "id": "7a37",
+      "name": "Andres",
+      "password": "123",
+      "email": "andres@ejemplo.com"
+    },
+    {
+      "id": "7799",
+      "name": "sfgs",
+      "password": "dsff",
+      "email": "sgsdf"
+    },
+    {
+      "id": "9262",
+      "name": "erwerw",
+      "password": "adasds",
+      "email": "sadasda"
+    }
+  ]
+}
